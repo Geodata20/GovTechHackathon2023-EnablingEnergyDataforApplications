@@ -6,3 +6,4 @@ https://hack.opendata.ch/project/942
 
 Basic prototype (csv -> api): https://bfeprototype.sh1.hidora.com/swagger/index.html
 
+A .NET 6 WebApi-solution can be found here: https://github.com/Geodata20/bfe.energiedashboard.apicollection.app
